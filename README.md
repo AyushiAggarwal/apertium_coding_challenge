@@ -6,7 +6,7 @@ Coding Challenge
 Created by Ayushi
 '''
 
-IRC nick: Ayushi \n
+IRC nick: Ayushi <br>
 mail: ayushi10026@iiitd.ac.in
 
 The aim is to create 2 programs such that: 
