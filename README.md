@@ -24,4 +24,4 @@ The aim is to create a word repetition generator(Prog1) and a repetition remover
    
    Output: 
    ^Hello$ <br>
-   ^!!!$  <br
+   ^!!!$  <br>
