@@ -1,4 +1,6 @@
-apertium_coding_challenge
+Apertium
+GSOC'14
+Coding Challenge 
 =========================
 '''
 Created by Ayushi
